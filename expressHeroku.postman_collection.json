@@ -11,10 +11,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://fierce-atoll-43505.herokuapp.com/api/posts",
+					"raw": "https://fathomless-springs-04401.herokuapp.com/api/posts",
 					"protocol": "https",
 					"host": [
-						"fierce-atoll-43505",
+						"fathomless-springs-04401",
 						"herokuapp",
 						"com"
 					],
